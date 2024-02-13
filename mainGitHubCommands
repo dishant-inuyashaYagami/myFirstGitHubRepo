@@ -7,7 +7,7 @@ git push -u origin master             # push all the changes in the master branc
 
 level 2 commnds:
 git pull origin master                # pulls all the changes in the origin to the master branch
-
+git remote -v                         # prints the gutHub link the git is connected to
 
 setup commands:
 git remote add origin https://github.com/dishant-inuyashaYagami/myFirstGitHubRepo.git       # links the local git to gitHub; name "origin" is an alias to the URL.
