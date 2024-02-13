@@ -1,3 +1,6 @@
+
+Reference: youtube link: Learn Git In 15 Minutes (https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele)
+
 level 1 commands: (must know at all times)
 git init                               # mark the beginning of tracking the project
 git add <file_name>                    # equivalent of p4 edit <file_name>
