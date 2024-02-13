@@ -1,0 +1,15 @@
+level 1 commands: (must know at all times)
+git init                               # mark the beginning of tracking the project
+git add <file_name>                    # equivalent of p4 edit <file_name>
+git commit -m <commit_message>         # equivalent of p4 change; p4 commit -c <changelist_number>  
+
+
+level 2 commands:
+git status                    # gives the staus of the stagged and unstagged files
+git log                       # gives the list of all commits 
+git branch                    # gives the list of branches
+git checkout <branch_name>    # takes you to the specified branch or changelist
+
+
+pre-setup commands:
+git config --global user.email "dishant.in@gmail.com"          # assigns the git to your account # git uses it for gitHub sync, I think
